@@ -1,0 +1,1702 @@
+{
+  "users": [
+    {
+      "_id": "944ba3d4-70c7-498f-be54-5b54b43775ce",
+      "id": "944ba3d4-70c7-498f-be54-5b54b43775ce",
+      "name": "Md Serajuddin",
+      "email": "mdserajuddin084@gmail.com",
+      "password": "$2a$10$dfUcffeSFMYQ1aI8M4Debu3bB.1T5ZoblVX2ZgSlONsO0iTcOLvr6",
+      "role": "ADMIN",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Md%20Serajuddin",
+      "createdAt": "2026-09-15T06:17:20.417Z",
+      "updatedAt": "2026-09-15T06:17:20.417Z"
+    },
+    {
+      "name": "abcd",
+      "email": "xyz@gmail.com",
+      "phone": "",
+      "password": "$2a$10$t9DPzd5A8eL7niCs7EAh5Oxotlfxgmsx4nb9n8s4sYmL.10BkKhoK",
+      "role": "USER",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=abcd",
+      "_id": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "id": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "createdAt": "2026-09-14T13:05:00.497Z",
+      "updatedAt": "2026-09-14T13:05:00.497Z"
+    },
+    {
+      "_id": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "id": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "name": "Md Shad Alam",
+      "email": "mdshadalam848@gmail.com",
+      "phone": "+1-800-NEXORA",
+      "password": "$2a$10$tNFLV4GHEZo2KId8mMzXu.I3gbTkUAzvIJGS66nHjTXxzjhbGA.oO",
+      "role": "SUPER_ADMIN",
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-14T09:55:08.062Z",
+      "updatedAt": "2026-09-15T06:05:32.726Z"
+    }
+  ],
+  "documents": [
+    {
+      "ownerId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "originalName": "OOP assignment.pdf",
+      "mimeType": "application/pdf",
+      "size": 111804,
+      "filePath": "C:\\Users\\mdsha\\.gemini\\antigravity\\scratch\\nexora-ai\\server\\uploads\\1789450554751-856846557-OOP_assignment.pdf",
+      "textContent": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1. Differentiate between procedural programming and object-oriented programming.  \n2. Write a program in java to Check whether input character is vowel or consonant.  \n3. Write a program in java to display all Prime numbers from 1 to N. \n4. Identify at least three specific OOP features (e.g., Encapsulation, Abstraction, \nInheritance, Polymorphism) and explain how they would make the system easier to \nmaintain or extend. \n5. Differentiate between JDK, JRE, and JVM. \n \n           Assignment – 2 \n \n6. Explain static variables, static methods, and static blocks with suitable examples. Why \nare static members associated with the class rather than individual objects? \n7. Write a Java program to show access control using different modifiers. \n8. Explain nested classes and inner classes in Java. Discuss their types with suitable \nexamples. \n9. Write a Java program demonstrating the use of the super keyword to:  \na. Access a superclass variable.  \nb. Call a superclass method.  \nc. Call a superclass constructor. \n10.  Discuss different types of inheritance.",
+      "pageCount": 1,
+      "wordCount": 180,
+      "charCount": 1362,
+      "structureType": "Academic",
+      "chunks": [
+        {
+          "id": "chunk-0",
+          "text": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1. Differentiate between procedural programming and object-oriented programming.  \n2. Write a program in java to Check whether input character is vowel or consonant.  \n3. Write a program in java to display all Prime numbers from 1 to N. \n4. Identify at least three specific OOP features (e.g., Encapsulation, Abstraction, \nInheritance, Polymorphism) and explain how they would make the system easier to \nmaintain or extend. \n5. Differentiate between JDK, JRE, and JVM. \n \n           Assignment – 2 \n \n6. Explain static variables, static methods, and static blocks with suitable examples. Why \nare static members associated with the class rather than individual objects? \n7. Write a Java program to show access control using different modifiers. \n8. Explain nested classes and inner classes in Java. Discuss their types with suitable \nexamples. \n9. Write a Java program demonstrating the use of the super keyword to:  \na. Access a superclass variable.  \nb. Call a superclass method.  \nc. Call a superclass constructor. \n10.  Discuss different types of inheritance.",
+          "page": 1,
+          "section": "Introduction",
+          "wordCount": 180
+        }
+      ],
+      "status": "ready",
+      "_id": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "id": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "createdAt": "2026-09-15T05:35:56.135Z",
+      "updatedAt": "2026-09-15T05:35:56.135Z"
+    }
+  ],
+  "analyses": [
+    {
+      "ownerId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "executiveSummary": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1. Differentiate between procedural programming and object-oriented programming.",
+      "simpleSummary": "This document discusses Java, Write, Program, Static, Explain. It explains their core principles, practical relationships, and key outcomes.",
+      "detailedSummary": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1. Differentiate between procedural programming and object-oriented programming.  \n2. Write a program in java to Check whether input character is vowel or consonant.  \n3. Write a program in java to display all Prime numbers from 1 to N. \n4. Identify at least three specific OOP features (e.g., Encapsulation, Abstraction, \nInheritance, Polymorphism) and explain how they would make the system easier to \nmaintain or extend. \n5. Differentiate between JDK, JRE, and JVM. \n \n           Assignment – 2 \n \n6. Explain static variables, static methods, and static blocks with suitable examples. Why \nare static members associated with the class rather than individual objects? \n7. Write a Java program to show access control using different modifiers. \n8. Explain nested classes and inner classes in Java. Discuss their types with suitable \nexamples. \n9. Write a Java program demonstrating the use of the super keyword to:  \na. Access a superclass variable.  \nb. Call a superclass method.  \nc. Call a superclass constructor. \n10.  Discuss different types of inheritance.",
+      "keyPoints": [
+        "Department of science & Technology, Govt.",
+        "Differentiate between procedural programming and object-oriented programming.",
+        "Write a program in java to Check whether input character is vowel or consonant.",
+        "Write a program in java to display all Prime numbers from 1 to N.",
+        "Identify at least three specific OOP features (e.g., Encapsulation, Abstraction, \nInheritance, Polymorphism) and explain how they would make the system easier to \nmaintain or extend.",
+        "Explain static variables, static methods, and static blocks with suitable examples."
+      ],
+      "importantConcepts": [
+        "Java",
+        "Write",
+        "Program",
+        "Static",
+        "Explain",
+        "Superclass",
+        "Jehanabad",
+        "Gecjehanabad"
+      ],
+      "topics": [
+        "Java",
+        "Write",
+        "Program",
+        "Static",
+        "Explain",
+        "Superclass"
+      ],
+      "definitions": [
+        {
+          "term": "Java",
+          "definition": "Key concept identified with 5 occurrences in OOP assignment.pdf."
+        },
+        {
+          "term": "Write",
+          "definition": "Key concept identified with 4 occurrences in OOP assignment.pdf."
+        },
+        {
+          "term": "Program",
+          "definition": "Key concept identified with 4 occurrences in OOP assignment.pdf."
+        },
+        {
+          "term": "Static",
+          "definition": "Key concept identified with 4 occurrences in OOP assignment.pdf."
+        }
+      ],
+      "importantFacts": [
+        "of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1.",
+        "Write a program in java to display all Prime numbers from 1 to N."
+      ],
+      "insights": [
+        "Primary thematic focus revolves around Java and Write and Program.",
+        "Structure reflects Academic documentation with 1 logical sections.",
+        "Highest term density observed in topics relating to Java."
+      ],
+      "keywords": [
+        "Java",
+        "Write",
+        "Program",
+        "Static",
+        "Explain",
+        "Superclass",
+        "Jehanabad",
+        "Gecjehanabad",
+        "Assignment",
+        "Differentiate",
+        "Programming",
+        "Inheritance",
+        "Suitable",
+        "Examples",
+        "Access"
+      ],
+      "entities": [
+        "Java",
+        "Write",
+        "Program",
+        "Static",
+        "Explain"
+      ],
+      "dates": [],
+      "numbers": [],
+      "conclusions": [
+        "Discuss different types of inheritance."
+      ],
+      "actionItems": [
+        "Review key definitions associated with Java.",
+        "Analyze cross-references between section headers and metrics.",
+        "Validate grounded findings using Nexora AI interactive visual mind map."
+      ],
+      "academicSpecifics": {
+        "chapters": [
+          "Unit 1: Overview of Java"
+        ],
+        "definitions": [
+          "Java: Key concept identified with 5 occurrences in OOP assignment.pdf.",
+          "Write: Key concept identified with 4 occurrences in OOP assignment.pdf.",
+          "Program: Key concept identified with 4 occurrences in OOP assignment.pdf.",
+          "Static: Key concept identified with 4 occurrences in OOP assignment.pdf."
+        ],
+        "formulas": [
+          "Key relationships indicated in textual tables and metrics."
+        ],
+        "examPoints": [
+          "What are the core mechanisms of Java?",
+          "Explain the role and significance of Write."
+        ]
+      },
+      "businessSpecifics": {
+        "objectives": [
+          "Deliver clear strategic understanding of Java."
+        ],
+        "decisions": [
+          "Prioritize identified findings and metrics for resource allocation."
+        ],
+        "risks": [
+          "Review unverified dependencies and variable metrics."
+        ],
+        "recommendations": [
+          "Leverage Java for tactical alignment."
+        ]
+      },
+      "provider": "Nexora Neural Core (Local Semantic Engine)",
+      "_id": "25834f73-fb83-4b01-82e3-4f5aa2512a91",
+      "id": "25834f73-fb83-4b01-82e3-4f5aa2512a91",
+      "createdAt": "2026-09-15T05:35:56.197Z",
+      "updatedAt": "2026-09-15T05:35:56.197Z"
+    }
+  ],
+  "chats": [
+    {
+      "ownerId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "documentIds": [
+        "0503fc5b-66e2-4268-b4ec-5ce7344496cb"
+      ],
+      "title": "Chat: OOP assignment.pdf",
+      "messages": [
+        {
+          "id": "4659dd6b-587f-4142-9a7f-f51f08f60012",
+          "role": "assistant",
+          "content": "Hello! I am your Nexora AI intelligence assistant. I have indexed your document with source grounding. You can ask me questions like:\n- \"What is this document about?\"\n- \"Explain the core points.\"\n- \"What are the important exam or business takeaways?\"\n- \"Where is this information mentioned?\"",
+          "sources": [],
+          "timestamp": "2026-09-15T05:37:22.979Z"
+        },
+        {
+          "id": "37108c74-f8f6-48d3-a32f-0a2ecd48b583",
+          "role": "user",
+          "content": "kya tum mujjjhe bta sakte hoo mai is assignment ko kis trarh complete karu",
+          "timestamp": "2026-09-15T05:38:07.750Z"
+        },
+        {
+          "id": "45c65108-b8b8-4059-962a-875ebe401562",
+          "role": "assistant",
+          "content": "Based on the document context:\n\nof Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1. [EXCERPT 1 - From \"OOP assignment.pdf\", Page 1, Section: \"Introduction\"]:\nDepartment of science & Technology, Govt. Assignment – 2 \n \n6.",
+          "sources": [
+            {
+              "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+              "documentName": "OOP assignment.pdf",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \n..."
+            }
+          ],
+          "provider": "local-semantic",
+          "timestamp": "2026-09-15T05:38:07.755Z"
+        },
+        {
+          "id": "9b158bc6-f781-4f86-8ae7-6394761f9735",
+          "role": "user",
+          "content": "Give me potential exam questions.",
+          "timestamp": "2026-09-15T05:38:33.992Z"
+        },
+        {
+          "id": "95c44e74-187e-48bd-9730-d5751743f209",
+          "role": "assistant",
+          "content": "I couldn't find this information in the uploaded document.",
+          "sources": [
+            {
+              "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+              "documentName": "OOP assignment.pdf",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \n..."
+            }
+          ],
+          "provider": "local-semantic",
+          "timestamp": "2026-09-15T05:38:33.994Z"
+        },
+        {
+          "id": "8a0be0b9-858c-4f7b-9ec0-efc3b85c8bc6",
+          "role": "user",
+          "content": "Explain this in simple language.",
+          "timestamp": "2026-09-15T05:38:42.217Z"
+        },
+        {
+          "id": "035ad733-ad8d-49b0-995c-c96ea4905e90",
+          "role": "assistant",
+          "content": "I couldn't find this information in the uploaded document.",
+          "sources": [],
+          "timestamp": "2026-09-15T05:38:42.217Z"
+        }
+      ],
+      "_id": "2554094c-693b-4ac3-a6a1-2dfa82aa90e3",
+      "id": "2554094c-693b-4ac3-a6a1-2dfa82aa90e3",
+      "createdAt": "2026-09-15T05:37:22.979Z",
+      "updatedAt": "2026-09-15T05:38:42.217Z",
+      "lastMessage": "I couldn't find this information in the uploaded document."
+    },
+    {
+      "ownerId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+      "documentIds": [
+        "2d223487-ea10-448e-9b95-71d663485a86"
+      ],
+      "title": "Chat: sample_ai_paper.txt",
+      "messages": [
+        {
+          "id": "7df0df7d-64ba-4fb5-bd36-740a61c4e062",
+          "role": "assistant",
+          "content": "Hello! I am your Nexora AI intelligence assistant. I have indexed your document with source grounding. You can ask me questions like:\n- \"What is this document about?\"\n- \"Explain the core points.\"\n- \"What are the important exam or business takeaways?\"\n- \"Where is this information mentioned?\"",
+          "sources": [],
+          "timestamp": "2026-09-14T10:05:00.235Z"
+        },
+        {
+          "id": "6ba70ac8-ea32-484e-90f7-dea51c868223",
+          "role": "user",
+          "content": "What are the nine visualization topologies supported by Nexora AI?",
+          "timestamp": "2026-09-14T10:05:00.251Z"
+        },
+        {
+          "id": "ff532e0e-0065-4f14-a559-b667378b646f",
+          "role": "assistant",
+          "content": "Based on the document context:\n\nNexora AI supports nine distinct visualization topologies: Mind Map, Concept Map, Tree Diagram, Flowchart, Process Diagram, Timeline, Comparison Diagram, Chapter Map, and Knowledge Graph. [EXCERPT 3 - From \"sample_ai_paper.txt\", Page 1, Section: \"Introduction\"]:\nNEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing. The primary objective of Nexora AI is to turn unstructured documents into verifiable, structured knowledge.",
+          "sources": [
+            {
+              "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+              "documentName": "sample_ai_paper.txt",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "name, page number, and section title. Crucially, the system implements anti-hallucination guardrails: if information is absent, the model states that it could not find it.\n\nChapter..."
+            },
+            {
+              "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+              "documentName": "sample_ai_paper.txt",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "documents into verifiable, structured knowledge. By combining deep semantic chunking, high-dimensional vector embeddings, and interactive topological mind maps, users can comprehen..."
+            },
+            {
+              "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+              "documentName": "sample_ai_paper.txt",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent doc..."
+            },
+            {
+              "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+              "documentName": "sample_ai_paper.txt",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "Tree Diagram, Flowchart, Process Diagram, Timeline, Comparison Diagram, Chapter Map, and Knowledge Graph. Inferred relationships are explicitly tagged as 'AI Inferred' to preserve ..."
+            }
+          ],
+          "provider": "local-semantic",
+          "timestamp": "2026-09-14T10:05:00.257Z"
+        },
+        {
+          "id": "3592819b-9d15-4b30-81db-1c53d0843d2c",
+          "role": "user",
+          "content": "What was Napoleon's favorite color according to this paper?",
+          "timestamp": "2026-09-14T10:05:07.630Z"
+        },
+        {
+          "id": "1629d41a-386e-4d7d-b686-976de1b89103",
+          "role": "assistant",
+          "content": "Based on the document context:\n\n[EXCERPT 1 - From \"sample_ai_paper.txt\", Page 1, Section: \"Introduction\"]:\ndocuments into verifiable, structured knowledge. In this workflow, source documents are ingested, sanitized, and broken down into 800-token semantic chunks.",
+          "sources": [
+            {
+              "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+              "documentName": "sample_ai_paper.txt",
+              "page": 1,
+              "section": "Introduction",
+              "snippet": "documents into verifiable, structured knowledge. By combining deep semantic chunking, high-dimensional vector embeddings, and interactive topological mind maps, users can comprehen..."
+            }
+          ],
+          "provider": "local-semantic",
+          "timestamp": "2026-09-14T10:05:07.632Z"
+        }
+      ],
+      "_id": "d29429e0-877f-448a-acd0-6983679f0613",
+      "id": "d29429e0-877f-448a-acd0-6983679f0613",
+      "createdAt": "2026-09-14T10:05:00.235Z",
+      "updatedAt": "2026-09-14T10:05:07.632Z",
+      "lastMessage": "Based on the document context:\n\n[EXCERPT 1 - From \"sample_ai_paper.txt\", Page 1, Section: \"Introduct"
+    }
+  ],
+  "messages": [],
+  "mindmaps": [
+    {
+      "ownerId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "visualizationType": "mindmap",
+      "mainTopic": "OOP assignment",
+      "nodes": [
+        {
+          "id": "node-root",
+          "label": "OOP assignment",
+          "category": "root",
+          "simpleExplanation": "The central theme of OOP assignment.pdf.",
+          "detailedExplanation": "Explores 180 words across 1 page(s) covering 5 major sections.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Document Title"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Introduction",
+            "Core Fundamentals",
+            "Methodology & Findings",
+            "Key Applications"
+          ],
+          "examples": [
+            "Full document reference: OOP assignment.pdf"
+          ],
+          "position": {
+            "x": 410,
+            "y": 260
+          }
+        },
+        {
+          "id": "node-sec-0",
+          "label": "Introduction",
+          "category": "section",
+          "simpleExplanation": "Key section focusing on Introduction.",
+          "detailedExplanation": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjeh...",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Introduction"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Write",
+            "Program",
+            "Static"
+          ],
+          "examples": [
+            "Document section discussion on page 1"
+          ],
+          "position": {
+            "x": 645,
+            "y": 265
+          }
+        },
+        {
+          "id": "node-concept-0-0",
+          "label": "Write",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Introduction: Write.",
+          "detailedExplanation": "Explains Write as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Introduction"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Introduction",
+            "Program"
+          ],
+          "examples": [
+            "Practical application of Write in Introduction"
+          ],
+          "position": {
+            "x": 764,
+            "y": 186
+          }
+        },
+        {
+          "id": "node-concept-0-1",
+          "label": "Program",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Introduction: Program.",
+          "detailedExplanation": "Explains Program as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Introduction"
+          },
+          "isInferred": true,
+          "relatedConcepts": [
+            "Introduction",
+            "Static"
+          ],
+          "examples": [
+            "Practical application of Program in Introduction"
+          ],
+          "position": {
+            "x": 764,
+            "y": 354
+          }
+        },
+        {
+          "id": "node-sec-1",
+          "label": "Core Fundamentals",
+          "category": "section",
+          "simpleExplanation": "Key section focusing on Core Fundamentals.",
+          "detailedExplanation": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjeh...",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Core Fundamentals"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Static",
+            "Explain",
+            "Superclass"
+          ],
+          "examples": [
+            "Document section discussion on page 1"
+          ],
+          "position": {
+            "x": 493,
+            "y": 474
+          }
+        },
+        {
+          "id": "node-concept-1-0",
+          "label": "Static",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Core Fundamentals: Static.",
+          "detailedExplanation": "Explains Static as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Core Fundamentals"
+          },
+          "isInferred": true,
+          "relatedConcepts": [
+            "Core Fundamentals",
+            "Static"
+          ],
+          "examples": [
+            "Practical application of Static in Core Fundamentals"
+          ],
+          "position": {
+            "x": 617,
+            "y": 557
+          }
+        },
+        {
+          "id": "node-concept-1-1",
+          "label": "Explain",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Core Fundamentals: Explain.",
+          "detailedExplanation": "Explains Explain as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Core Fundamentals"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Core Fundamentals",
+            "Explain"
+          ],
+          "examples": [
+            "Practical application of Explain in Core Fundamentals"
+          ],
+          "position": {
+            "x": 457,
+            "y": 609
+          }
+        },
+        {
+          "id": "node-sec-2",
+          "label": "Methodology & Findings",
+          "category": "section",
+          "simpleExplanation": "Key section focusing on Methodology & Findings.",
+          "detailedExplanation": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjeh...",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Methodology & Findings"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Superclass",
+            "Jehanabad",
+            "Gecjehanabad"
+          ],
+          "examples": [
+            "Document section discussion on page 1"
+          ],
+          "position": {
+            "x": 247,
+            "y": 394
+          }
+        },
+        {
+          "id": "node-concept-2-0",
+          "label": "Superclass",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Methodology & Findings: Superclass.",
+          "detailedExplanation": "Explains Superclass as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Methodology & Findings"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Methodology & Findings",
+            "Explain"
+          ],
+          "examples": [
+            "Practical application of Superclass in Methodology & Findings"
+          ],
+          "position": {
+            "x": 218,
+            "y": 532
+          }
+        },
+        {
+          "id": "node-concept-2-1",
+          "label": "Jehanabad",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Methodology & Findings: Jehanabad.",
+          "detailedExplanation": "Explains Jehanabad as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Methodology & Findings"
+          },
+          "isInferred": true,
+          "relatedConcepts": [
+            "Methodology & Findings",
+            "Superclass"
+          ],
+          "examples": [
+            "Practical application of Jehanabad in Methodology & Findings"
+          ],
+          "position": {
+            "x": 119,
+            "y": 396
+          }
+        },
+        {
+          "id": "node-sec-3",
+          "label": "Key Applications",
+          "category": "section",
+          "simpleExplanation": "Key section focusing on Key Applications.",
+          "detailedExplanation": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjeh...",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Key Applications"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Gecjehanabad",
+            "Assignment",
+            "Differentiate"
+          ],
+          "examples": [
+            "Document section discussion on page 1"
+          ],
+          "position": {
+            "x": 247,
+            "y": 136
+          }
+        },
+        {
+          "id": "node-concept-3-0",
+          "label": "Gecjehanabad",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Key Applications: Gecjehanabad.",
+          "detailedExplanation": "Explains Gecjehanabad as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Key Applications"
+          },
+          "isInferred": true,
+          "relatedConcepts": [
+            "Key Applications",
+            "Superclass"
+          ],
+          "examples": [
+            "Practical application of Gecjehanabad in Key Applications"
+          ],
+          "position": {
+            "x": 119,
+            "y": 144
+          }
+        },
+        {
+          "id": "node-concept-3-1",
+          "label": "Assignment",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Key Applications: Assignment.",
+          "detailedExplanation": "Explains Assignment as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Key Applications"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Key Applications",
+            "Jehanabad"
+          ],
+          "examples": [
+            "Practical application of Assignment in Key Applications"
+          ],
+          "position": {
+            "x": 218,
+            "y": 8
+          }
+        },
+        {
+          "id": "node-sec-4",
+          "label": "Conclusions",
+          "category": "section",
+          "simpleExplanation": "Key section focusing on Conclusions.",
+          "detailedExplanation": "Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjeh...",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Conclusions"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Differentiate",
+            "Between",
+            "Programming"
+          ],
+          "examples": [
+            "Document section discussion on page 1"
+          ],
+          "position": {
+            "x": 493,
+            "y": 56
+          }
+        },
+        {
+          "id": "node-concept-4-0",
+          "label": "Differentiate",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Conclusions: Differentiate.",
+          "detailedExplanation": "Explains Differentiate as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Conclusions"
+          },
+          "isInferred": false,
+          "relatedConcepts": [
+            "Conclusions",
+            "Jehanabad"
+          ],
+          "examples": [
+            "Practical application of Differentiate in Conclusions"
+          ],
+          "position": {
+            "x": 457,
+            "y": -69
+          }
+        },
+        {
+          "id": "node-concept-4-1",
+          "label": "Between",
+          "category": "concept",
+          "simpleExplanation": "Concept related to Conclusions: Between.",
+          "detailedExplanation": "Explains Between as documented in OOP assignment.pdf.",
+          "source": {
+            "documentName": "OOP assignment.pdf",
+            "page": 1,
+            "section": "Conclusions"
+          },
+          "isInferred": true,
+          "relatedConcepts": [
+            "Conclusions",
+            "Gecjehanabad"
+          ],
+          "examples": [
+            "Practical application of Between in Conclusions"
+          ],
+          "position": {
+            "x": 617,
+            "y": -17
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "edge-root-node-sec-0",
+          "source": "node-root",
+          "target": "node-sec-0",
+          "label": "branches to",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-0-node-concept-0-0",
+          "source": "node-sec-0",
+          "target": "node-concept-0-0",
+          "label": "details",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-0-node-concept-0-1",
+          "source": "node-sec-0",
+          "target": "node-concept-0-1",
+          "label": "AI Inferred connection",
+          "isInferred": true
+        },
+        {
+          "id": "edge-root-node-sec-1",
+          "source": "node-root",
+          "target": "node-sec-1",
+          "label": "branches to",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-1-node-concept-1-0",
+          "source": "node-sec-1",
+          "target": "node-concept-1-0",
+          "label": "AI Inferred connection",
+          "isInferred": true
+        },
+        {
+          "id": "edge-node-sec-1-node-concept-1-1",
+          "source": "node-sec-1",
+          "target": "node-concept-1-1",
+          "label": "details",
+          "isInferred": false
+        },
+        {
+          "id": "edge-root-node-sec-2",
+          "source": "node-root",
+          "target": "node-sec-2",
+          "label": "branches to",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-2-node-concept-2-0",
+          "source": "node-sec-2",
+          "target": "node-concept-2-0",
+          "label": "details",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-2-node-concept-2-1",
+          "source": "node-sec-2",
+          "target": "node-concept-2-1",
+          "label": "AI Inferred connection",
+          "isInferred": true
+        },
+        {
+          "id": "edge-root-node-sec-3",
+          "source": "node-root",
+          "target": "node-sec-3",
+          "label": "branches to",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-3-node-concept-3-0",
+          "source": "node-sec-3",
+          "target": "node-concept-3-0",
+          "label": "AI Inferred connection",
+          "isInferred": true
+        },
+        {
+          "id": "edge-node-sec-3-node-concept-3-1",
+          "source": "node-sec-3",
+          "target": "node-concept-3-1",
+          "label": "details",
+          "isInferred": false
+        },
+        {
+          "id": "edge-root-node-sec-4",
+          "source": "node-root",
+          "target": "node-sec-4",
+          "label": "branches to",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-4-node-concept-4-0",
+          "source": "node-sec-4",
+          "target": "node-concept-4-0",
+          "label": "details",
+          "isInferred": false
+        },
+        {
+          "id": "edge-node-sec-4-node-concept-4-1",
+          "source": "node-sec-4",
+          "target": "node-concept-4-1",
+          "label": "AI Inferred connection",
+          "isInferred": true
+        }
+      ],
+      "_id": "218f7911-bdf6-4a63-ad4c-dc2ca06b2596",
+      "id": "218f7911-bdf6-4a63-ad4c-dc2ca06b2596",
+      "createdAt": "2026-09-15T05:35:56.203Z",
+      "updatedAt": "2026-09-15T05:37:13.784Z"
+    }
+  ],
+  "studymaterials": [
+    {
+      "ownerId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+      "chapterSummary": "Comprehensive chapter review of OOP assignment: The document synthesizes 180 words across 1 pages, focusing on Write, Program, Static, Explain, Superclass.",
+      "definitions": [
+        {
+          "term": "Write",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Program",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Static",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Explain",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Superclass",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Jehanabad",
+          "definition": "A central subject element identified in OOP assignment, analyzed extensively across page 1.",
+          "page": 1
+        }
+      ],
+      "flashcards": [
+        {
+          "id": "fc-1",
+          "front": "What is the significance of Write?",
+          "back": "Write a program in java to Check whether input character is vowel or consonant.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-2",
+          "front": "What is the significance of Program?",
+          "back": "Differentiate between procedural programming and object-oriented programming.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-3",
+          "front": "What is the significance of Static?",
+          "back": "Explain static variables, static methods, and static blocks with suitable examples.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-4",
+          "front": "What is the significance of Explain?",
+          "back": "Identify at least three specific OOP features (e.g., Encapsulation, Abstraction, \nInheritance, Polymorphism) and explain how they would make the system easier to \nmaintain or extend.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-5",
+          "front": "What is the significance of Superclass?",
+          "back": "Access a superclass variable.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-6",
+          "front": "What is the significance of Jehanabad?",
+          "back": "of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1.",
+          "source": "Page 1"
+        }
+      ],
+      "mcqs": [
+        {
+          "id": "mcq-1",
+          "question": "According to OOP assignment.pdf, what is the role of \"Write\"?",
+          "options": [
+            "It is an unrelated historical artifact not covered in the text.",
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It represents a primary pillar governing Write in the document.",
+            "It acts as an obsolete protocol replaced in 1995."
+          ],
+          "correctIndex": 2,
+          "explanation": "The text establishes Write as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-2",
+          "question": "According to OOP assignment.pdf, what is the role of \"Program\"?",
+          "options": [
+            "It represents a primary pillar governing Program in the document.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It denotes an optional secondary footnote with no operational effect."
+          ],
+          "correctIndex": 0,
+          "explanation": "The text establishes Program as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-3",
+          "question": "According to OOP assignment.pdf, what is the role of \"Static\"?",
+          "options": [
+            "It represents a primary pillar governing Static in the document.",
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It is an unrelated historical artifact not covered in the text."
+          ],
+          "correctIndex": 0,
+          "explanation": "The text establishes Static as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-4",
+          "question": "According to OOP assignment.pdf, what is the role of \"Explain\"?",
+          "options": [
+            "It represents a primary pillar governing Explain in the document.",
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It is an unrelated historical artifact not covered in the text."
+          ],
+          "correctIndex": 0,
+          "explanation": "The text establishes Explain as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-5",
+          "question": "According to OOP assignment.pdf, what is the role of \"Superclass\"?",
+          "options": [
+            "It represents a primary pillar governing Superclass in the document.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It denotes an optional secondary footnote with no operational effect."
+          ],
+          "correctIndex": 0,
+          "explanation": "The text establishes Superclass as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        }
+      ],
+      "shortQuestions": [
+        {
+          "question": "Define \"Write\" and explain its context within OOP assignment.",
+          "answer": "\"Write\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Program\" and explain its context within OOP assignment.",
+          "answer": "\"Program\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Static\" and explain its context within OOP assignment.",
+          "answer": "\"Static\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Explain\" and explain its context within OOP assignment.",
+          "answer": "\"Explain\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        }
+      ],
+      "longQuestions": [
+        {
+          "question": "Critically assess the core findings and thematic structure presented in OOP assignment.",
+          "keyPoints": [
+            "Examine the primary objectives and methodologies outlined across the 1 pages.",
+            "Analyze how Write, Program, Static interoperate.",
+            "Synthesize the practical recommendations and their real-world impact."
+          ],
+          "marks": 10
+        },
+        {
+          "question": "Discuss the structural differentiation between Write and Program.",
+          "keyPoints": [
+            "Detail definitions and operational contexts.",
+            "Provide concrete examples grounded in the text.",
+            "Evaluate edge cases or constraints highlighted in the material."
+          ],
+          "marks": 10
+        }
+      ],
+      "revisionNotes": [
+        "Review the definitions for Write, Program, Static, Explain.",
+        "Focus on section relationships identified on pages 1 through 1.",
+        "Be prepared to articulate the differences between theoretical principles and practical findings.",
+        "Memorize key numeric data points and documented conclusions."
+      ],
+      "examFocusedPoints": [
+        "High-probability question: Expect an essay or structured question on Write.",
+        "Common pitfall: Conflating Write with Program. Make sure to note distinct operational boundaries.",
+        "Quick Formula / Heuristic: Always ground your answers with specific document sections and terminology."
+      ],
+      "quickRevisionSheet": "# Quick Revision Sheet: OOP assignment\n- **Document**: OOP assignment.pdf (180 words, 1 pages)\n- **Top 5 Core Concepts**: Write • Program • Static • Explain • Superclass\n- **Essential Takeaway**: Department of science & Technology, Govt. of Bihar  \nGOVERNMENT ENGGINEERING  COLLEGE, JEHANABAD  \nWalipur, Hulasganj, Jehanabad-804407  \nEmail ID:- Principle@gecjehanabad.ac.in  \nWebsite:- www.gecjehanabad.ac.in \n \n                                                            Assignment-1          \n1.\n- **High-Yield Exam Focus**: Master definitions for Write, its dependencies, and verified analytical outcomes.",
+      "_id": "39801f1c-ce56-436a-af05-a379446329ea",
+      "id": "39801f1c-ce56-436a-af05-a379446329ea",
+      "createdAt": "2026-09-15T05:35:56.207Z",
+      "updatedAt": "2026-09-15T05:35:56.207Z"
+    },
+    {
+      "ownerId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+      "chapterSummary": "Comprehensive chapter review of sample_ai_paper: The document synthesizes 289 words across 1 pages, focusing on Knowledge, Nexora, Chapter, Document, Section.",
+      "definitions": [
+        {
+          "term": "Knowledge",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Nexora",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Chapter",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Document",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Section",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        },
+        {
+          "term": "Graph",
+          "definition": "A central subject element identified in sample_ai_paper, analyzed extensively across page 1.",
+          "page": 1
+        }
+      ],
+      "flashcards": [
+        {
+          "id": "fc-1",
+          "front": "What is the significance of Knowledge?",
+          "back": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-2",
+          "front": "What is the significance of Nexora?",
+          "back": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-3",
+          "front": "What is the significance of Chapter?",
+          "back": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-4",
+          "front": "What is the significance of Document?",
+          "back": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-5",
+          "front": "What is the significance of Section?",
+          "back": "Section 2.1: Retrieval-Augmented Generation (RAG) Architecture\nRetrieval-Augmented Generation bridges the gap between static foundational models and dynamic proprietary documents.",
+          "source": "Page 1"
+        },
+        {
+          "id": "fc-6",
+          "front": "What is the significance of Graph?",
+          "back": "NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing.",
+          "source": "Page 1"
+        }
+      ],
+      "mcqs": [
+        {
+          "id": "mcq-1",
+          "question": "According to sample_ai_paper.txt, what is the role of \"Knowledge\"?",
+          "options": [
+            "It is an unrelated historical artifact not covered in the text.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It represents a primary pillar governing Knowledge in the document.",
+            "It denotes an optional secondary footnote with no operational effect."
+          ],
+          "correctIndex": 2,
+          "explanation": "The text establishes Knowledge as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-2",
+          "question": "According to sample_ai_paper.txt, what is the role of \"Nexora\"?",
+          "options": [
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It represents a primary pillar governing Nexora in the document."
+          ],
+          "correctIndex": 3,
+          "explanation": "The text establishes Nexora as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-3",
+          "question": "According to sample_ai_paper.txt, what is the role of \"Chapter\"?",
+          "options": [
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It represents a primary pillar governing Chapter in the document."
+          ],
+          "correctIndex": 3,
+          "explanation": "The text establishes Chapter as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-4",
+          "question": "According to sample_ai_paper.txt, what is the role of \"Document\"?",
+          "options": [
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It represents a primary pillar governing Document in the document.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It acts as an obsolete protocol replaced in 1995."
+          ],
+          "correctIndex": 1,
+          "explanation": "The text establishes Document as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        },
+        {
+          "id": "mcq-5",
+          "question": "According to sample_ai_paper.txt, what is the role of \"Section\"?",
+          "options": [
+            "It denotes an optional secondary footnote with no operational effect.",
+            "It acts as an obsolete protocol replaced in 1995.",
+            "It is an unrelated historical artifact not covered in the text.",
+            "It represents a primary pillar governing Section in the document."
+          ],
+          "correctIndex": 3,
+          "explanation": "The text establishes Section as an integral concept with direct application across documented workflows.",
+          "source": "Page 1"
+        }
+      ],
+      "shortQuestions": [
+        {
+          "question": "Define \"Knowledge\" and explain its context within sample_ai_paper.",
+          "answer": "\"Knowledge\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Nexora\" and explain its context within sample_ai_paper.",
+          "answer": "\"Nexora\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Chapter\" and explain its context within sample_ai_paper.",
+          "answer": "\"Chapter\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        },
+        {
+          "question": "Define \"Document\" and explain its context within sample_ai_paper.",
+          "answer": "\"Document\" is established in the document as a fundamental component. Key attributes include structured relationships with related topics and clear operational utility.",
+          "marks": 3
+        }
+      ],
+      "longQuestions": [
+        {
+          "question": "Critically assess the core findings and thematic structure presented in sample_ai_paper.",
+          "keyPoints": [
+            "Examine the primary objectives and methodologies outlined across the 1 pages.",
+            "Analyze how Knowledge, Nexora, Chapter interoperate.",
+            "Synthesize the practical recommendations and their real-world impact."
+          ],
+          "marks": 10
+        },
+        {
+          "question": "Discuss the structural differentiation between Knowledge and Nexora.",
+          "keyPoints": [
+            "Detail definitions and operational contexts.",
+            "Provide concrete examples grounded in the text.",
+            "Evaluate edge cases or constraints highlighted in the material."
+          ],
+          "marks": 10
+        }
+      ],
+      "revisionNotes": [
+        "Review the definitions for Knowledge, Nexora, Chapter, Document.",
+        "Focus on section relationships identified on pages 1 through 1.",
+        "Be prepared to articulate the differences between theoretical principles and practical findings.",
+        "Memorize key numeric data points and documented conclusions."
+      ],
+      "examFocusedPoints": [
+        "High-probability question: Expect an essay or structured question on Knowledge.",
+        "Common pitfall: Conflating Knowledge with Nexora. Make sure to note distinct operational boundaries.",
+        "Quick Formula / Heuristic: Always ground your answers with specific document sections and terminology."
+      ],
+      "quickRevisionSheet": "# Quick Revision Sheet: sample_ai_paper\n- **Document**: sample_ai_paper.txt (289 words, 1 pages)\n- **Top 5 Core Concepts**: Knowledge • Nexora • Chapter • Document • Section\n- **Essential Takeaway**: NEXORA RESEARCH: Foundations of Neural Knowledge Graph Synthesis\nAuthor: Nexora AI Laboratories\nDate: September 2026\n\nChapter 1: Executive Summary & Core Objectives\nIntelligent document analysis represents the next frontier in autonomous computing. The primary objective of Nexora AI is to turn unstructured documents into verifiable, structured knowledge.\n- **High-Yield Exam Focus**: Master definitions for Knowledge, its dependencies, and verified analytical outcomes.",
+      "_id": "e31db56b-01d5-4964-9223-b18ad22aff2f",
+      "id": "e31db56b-01d5-4964-9223-b18ad22aff2f",
+      "createdAt": "2026-09-14T10:04:16.419Z",
+      "updatedAt": "2026-09-14T10:04:16.419Z"
+    }
+  ],
+  "exports": [],
+  "activitylogs": [
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "DELETE_USER",
+      "status": "SUCCESS",
+      "metadata": {
+        "targetUserId": "d1d100f6-f363-4db4-ba22-6e22176e67d3"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:24:20.439Z",
+      "_id": "deb8ba0d-c193-424b-96e8-a39a599513fb",
+      "id": "deb8ba0d-c193-424b-96e8-a39a599513fb",
+      "createdAt": "2026-09-15T06:24:20.439Z",
+      "updatedAt": "2026-09-15T06:24:20.439Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "DELETE_USER",
+      "status": "SUCCESS",
+      "metadata": {
+        "targetUserId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:23:37.114Z",
+      "_id": "80cbf6f5-bec5-4407-8b1a-967b85b31b6e",
+      "id": "80cbf6f5-bec5-4407-8b1a-967b85b31b6e",
+      "createdAt": "2026-09-15T06:23:37.114Z",
+      "updatedAt": "2026-09-15T06:23:37.114Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "DELETE_USER",
+      "status": "SUCCESS",
+      "metadata": {
+        "targetUserId": "cbadbdba-fd4c-4e68-8b0c-06e9eb206341"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:23:30.474Z",
+      "_id": "24159fc8-4966-4a1a-a137-2057c4c13403",
+      "id": "24159fc8-4966-4a1a-a137-2057c4c13403",
+      "createdAt": "2026-09-15T06:23:30.474Z",
+      "updatedAt": "2026-09-15T06:23:30.474Z"
+    },
+    {
+      "userId": "944ba3d4-70c7-498f-be54-5b54b43775ce",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:17:35.466Z",
+      "_id": "11a4d261-3a19-4818-b7a6-3fe2f45a7535",
+      "id": "11a4d261-3a19-4818-b7a6-3fe2f45a7535",
+      "createdAt": "2026-09-15T06:17:35.466Z",
+      "updatedAt": "2026-09-15T06:17:35.466Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "CREATE_ADMIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "newAdminId": "944ba3d4-70c7-498f-be54-5b54b43775ce",
+        "email": "mdserajuddin084@gmail.com"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:17:20.417Z",
+      "_id": "1b2075f4-f1d6-4be5-b75b-badce1ad2c98",
+      "id": "1b2075f4-f1d6-4be5-b75b-badce1ad2c98",
+      "createdAt": "2026-09-15T06:17:20.417Z",
+      "updatedAt": "2026-09-15T06:17:20.417Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "SUPER_ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:17:20.308Z",
+      "_id": "29732927-36c4-4f72-9d51-4f3760e05ecd",
+      "id": "29732927-36c4-4f72-9d51-4f3760e05ecd",
+      "createdAt": "2026-09-15T06:17:20.308Z",
+      "updatedAt": "2026-09-15T06:17:20.308Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "SUPER_ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:08:58.045Z",
+      "_id": "69f3d2c3-6755-485d-885c-de40d91032ae",
+      "id": "69f3d2c3-6755-485d-885c-de40d91032ae",
+      "createdAt": "2026-09-15T06:08:58.045Z",
+      "updatedAt": "2026-09-15T06:08:58.045Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "LOGIN",
+      "status": "SUCCESS",
+      "metadata": {},
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:07:48.090Z",
+      "_id": "f8409101-535e-4070-81fd-2ab0967c65f5",
+      "id": "f8409101-535e-4070-81fd-2ab0967c65f5",
+      "createdAt": "2026-09-15T06:07:48.090Z",
+      "updatedAt": "2026-09-15T06:07:48.090Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "SUPER_ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T06:07:30.245Z",
+      "_id": "32266ac8-e408-43cb-9e75-ac1dd69a832a",
+      "id": "32266ac8-e408-43cb-9e75-ac1dd69a832a",
+      "createdAt": "2026-09-15T06:07:30.246Z",
+      "updatedAt": "2026-09-15T06:07:30.246Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "SUPER_ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:40:04.697Z",
+      "_id": "f71f3453-ccfb-4224-8ba1-13204d71ac2f",
+      "id": "f71f3453-ccfb-4224-8ba1-13204d71ac2f",
+      "createdAt": "2026-09-15T05:40:04.697Z",
+      "updatedAt": "2026-09-15T05:40:04.697Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "CHAT_QUERY",
+      "status": "SUCCESS",
+      "metadata": {
+        "chatId": "2554094c-693b-4ac3-a6a1-2dfa82aa90e3",
+        "query": "Explain this in simple language."
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:38:42.218Z",
+      "_id": "64702825-8d98-4f7d-bb31-12fab9429e97",
+      "id": "64702825-8d98-4f7d-bb31-12fab9429e97",
+      "createdAt": "2026-09-15T05:38:42.218Z",
+      "updatedAt": "2026-09-15T05:38:42.218Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "CHAT_QUERY",
+      "status": "SUCCESS",
+      "metadata": {
+        "chatId": "2554094c-693b-4ac3-a6a1-2dfa82aa90e3",
+        "query": "Give me potential exam questions."
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:38:33.994Z",
+      "_id": "57c529ed-3559-4d0a-b2b0-560407d7cf46",
+      "id": "57c529ed-3559-4d0a-b2b0-560407d7cf46",
+      "createdAt": "2026-09-15T05:38:33.994Z",
+      "updatedAt": "2026-09-15T05:38:33.994Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "CHAT_QUERY",
+      "status": "SUCCESS",
+      "metadata": {
+        "chatId": "2554094c-693b-4ac3-a6a1-2dfa82aa90e3",
+        "query": "kya tum mujjjhe bta sakte hoo mai is assignment ko kis trarh complete karu"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:38:07.756Z",
+      "_id": "107090ba-c128-4a9a-b953-f02429046bbf",
+      "id": "107090ba-c128-4a9a-b953-f02429046bbf",
+      "createdAt": "2026-09-15T05:38:07.756Z",
+      "updatedAt": "2026-09-15T05:38:07.756Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "CREATE_MINDMAP",
+      "status": "SUCCESS",
+      "metadata": {
+        "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+        "type": "mindmap"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:37:13.785Z",
+      "_id": "ce68a6f6-64c7-4dbb-a35d-f258ce016005",
+      "id": "ce68a6f6-64c7-4dbb-a35d-f258ce016005",
+      "createdAt": "2026-09-15T05:37:13.785Z",
+      "updatedAt": "2026-09-15T05:37:13.785Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "CREATE_MINDMAP",
+      "status": "SUCCESS",
+      "metadata": {
+        "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+        "type": "mindmap"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:37:13.767Z",
+      "_id": "6b57e4a4-1591-4abc-80ec-cee9dbf98b76",
+      "id": "6b57e4a4-1591-4abc-80ec-cee9dbf98b76",
+      "createdAt": "2026-09-15T05:37:13.767Z",
+      "updatedAt": "2026-09-15T05:37:13.767Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "UPLOAD_DOCUMENT",
+      "status": "SUCCESS",
+      "metadata": {
+        "documentId": "0503fc5b-66e2-4268-b4ec-5ce7344496cb",
+        "name": "OOP assignment.pdf",
+        "size": 111804,
+        "structureType": "Academic"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-15T05:35:56.135Z",
+      "_id": "00e164bd-9a4a-4261-ba04-c27d04a942ac",
+      "id": "00e164bd-9a4a-4261-ba04-c27d04a942ac",
+      "createdAt": "2026-09-15T05:35:56.135Z",
+      "updatedAt": "2026-09-15T05:35:56.135Z"
+    },
+    {
+      "userId": "d5817c48-e4ad-44c5-be2e-9d41a4e2581c",
+      "action": "REGISTER",
+      "status": "SUCCESS",
+      "metadata": {
+        "email": "xyz@gmail.com",
+        "phone": ""
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T13:05:00.503Z",
+      "_id": "3b411ab9-a6df-4fcd-9368-743ab091568c",
+      "id": "3b411ab9-a6df-4fcd-9368-743ab091568c",
+      "createdAt": "2026-09-14T13:05:00.503Z",
+      "updatedAt": "2026-09-14T13:05:00.503Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "CHAT_QUERY",
+      "status": "SUCCESS",
+      "metadata": {
+        "chatId": "d29429e0-877f-448a-acd0-6983679f0613",
+        "query": "What was Napoleon's favorite color according to this paper?"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:05:07.632Z",
+      "_id": "867e844a-6713-42ef-8c2b-69835754ac60",
+      "id": "867e844a-6713-42ef-8c2b-69835754ac60",
+      "createdAt": "2026-09-14T10:05:07.632Z",
+      "updatedAt": "2026-09-14T10:05:07.632Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "LOGIN",
+      "status": "SUCCESS",
+      "metadata": {},
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:05:07.602Z",
+      "_id": "d7d96bc5-d6ce-4973-98c7-0b6d8dfe2c04",
+      "id": "d7d96bc5-d6ce-4973-98c7-0b6d8dfe2c04",
+      "createdAt": "2026-09-14T10:05:07.602Z",
+      "updatedAt": "2026-09-14T10:05:07.602Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "CHAT_QUERY",
+      "status": "SUCCESS",
+      "metadata": {
+        "chatId": "d29429e0-877f-448a-acd0-6983679f0613",
+        "query": "What are the nine visualization topologies supported by Nexora AI?"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:05:00.257Z",
+      "_id": "ca12ef1b-f7cb-4463-a188-1e6fe07ed956",
+      "id": "ca12ef1b-f7cb-4463-a188-1e6fe07ed956",
+      "createdAt": "2026-09-14T10:05:00.257Z",
+      "updatedAt": "2026-09-14T10:05:00.257Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "LOGIN",
+      "status": "SUCCESS",
+      "metadata": {},
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:05:00.146Z",
+      "_id": "6dc6f74a-056e-447a-885f-d804e73a8e05",
+      "id": "6dc6f74a-056e-447a-885f-d804e73a8e05",
+      "createdAt": "2026-09-14T10:05:00.146Z",
+      "updatedAt": "2026-09-14T10:05:00.146Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "UPLOAD_DOCUMENT",
+      "status": "SUCCESS",
+      "metadata": {
+        "documentId": "2d223487-ea10-448e-9b95-71d663485a86",
+        "name": "sample_ai_paper.txt",
+        "size": 2229,
+        "structureType": "Academic"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:04:16.347Z",
+      "_id": "28ce4381-a0c5-4d33-b7be-a5a6608e7e0b",
+      "id": "28ce4381-a0c5-4d33-b7be-a5a6608e7e0b",
+      "createdAt": "2026-09-14T10:04:16.347Z",
+      "updatedAt": "2026-09-14T10:04:16.347Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "LOGIN",
+      "status": "SUCCESS",
+      "metadata": {},
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:04:16.155Z",
+      "_id": "dea4b3e1-5ba2-4360-9944-c5eb79796367",
+      "id": "dea4b3e1-5ba2-4360-9944-c5eb79796367",
+      "createdAt": "2026-09-14T10:04:16.155Z",
+      "updatedAt": "2026-09-14T10:04:16.155Z"
+    },
+    {
+      "userId": "f7ab1180-7ec8-4801-abd0-ea6f24c6eac4",
+      "action": "REGISTER",
+      "status": "SUCCESS",
+      "metadata": {
+        "email": "user_test_rbac@nexora.ai",
+        "phone": ""
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:03:56.491Z",
+      "_id": "ae4a3b45-a8de-4eb3-aba2-19ef7d77f6ac",
+      "id": "ae4a3b45-a8de-4eb3-aba2-19ef7d77f6ac",
+      "createdAt": "2026-09-14T10:03:56.491Z",
+      "updatedAt": "2026-09-14T10:03:56.491Z"
+    },
+    {
+      "userId": "cbadbdba-fd4c-4e68-8b0c-06e9eb206341",
+      "action": "REGISTER",
+      "status": "SUCCESS",
+      "metadata": {
+        "email": "johndoe@example.com",
+        "phone": ""
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:03:15.161Z",
+      "_id": "5228534c-a7e3-4b0c-b25c-cc402caf6eda",
+      "id": "5228534c-a7e3-4b0c-b25c-cc402caf6eda",
+      "createdAt": "2026-09-14T10:03:15.161Z",
+      "updatedAt": "2026-09-14T10:03:15.161Z"
+    },
+    {
+      "userId": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "action": "ADMIN_LOGIN",
+      "status": "SUCCESS",
+      "metadata": {
+        "role": "SUPER_ADMIN"
+      },
+      "ip": "::1",
+      "timestamp": "2026-09-14T10:03:05.395Z",
+      "_id": "725a8bfa-b99e-468b-820a-94320660e5e1",
+      "id": "725a8bfa-b99e-468b-820a-94320660e5e1",
+      "createdAt": "2026-09-14T10:03:05.395Z",
+      "updatedAt": "2026-09-14T10:03:05.395Z"
+    }
+  ],
+  "adminpermissions": [
+    {
+      "userId": "944ba3d4-70c7-498f-be54-5b54b43775ce",
+      "permissions": [
+        "VIEW_USERS",
+        "VIEW_DOCUMENTS",
+        "VIEW_ANALYTICS"
+      ],
+      "assignedBy": "4b131473-555a-4519-90b2-be56afe4e02c",
+      "_id": "3ee8e0fe-348f-44a3-adaa-c6fab186bc60",
+      "id": "3ee8e0fe-348f-44a3-adaa-c6fab186bc60",
+      "createdAt": "2026-09-15T06:17:20.417Z",
+      "updatedAt": "2026-09-15T06:17:20.417Z"
+    },
+    {
+      "_id": "90d6e999-d967-4298-9849-6318da2581f8",
+      "userId": "d1d100f6-f363-4db4-ba22-6e22176e67d3",
+      "permissions": [
+        "VIEW_USERS",
+        "VIEW_DOCUMENTS",
+        "VIEW_ANALYTICS",
+        "VIEW_ACTIVITY_LOGS"
+      ],
+      "assignedBy": "cli-script",
+      "createdAt": "2026-09-15T05:49:48.702Z"
+    }
+  ],
+  "systemsettings": [
+    {
+      "_id": "e3e3c7e5-5980-4e39-be3a-38f4cc8b2aad",
+      "key": "general",
+      "platformName": "Nexora AI",
+      "tagline": "Turn Documents Into Knowledge.",
+      "allowRegistrations": true,
+      "maxFileSizeMB": 50,
+      "defaultAiProvider": "gemini",
+      "maintenanceMode": false,
+      "updatedAt": "2026-09-14T09:55:08.064Z"
+    }
+  ]
+}
